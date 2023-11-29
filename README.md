@@ -21,6 +21,20 @@ Features:
 ![image](https://github.com/Wishwa98/Google_WebScraper/assets/86372219/092e29d0-7ce8-45ef-bff6-9121ba53beaa)
 
 
+**Additional Features** : can limit the number of results to be scraped
+
+Uncomment **"max_results"** and change the specific number to limit the records to be extract form google maps
+
+``` python
+queries = [
+    {
+        "keyword": "Computer Repair Centers In Sri Lanka",
+        #"max_results" : 5,
+    },
+]
+
+```
+
 **Requirements**:
 + Python 3.x
 +  Selenium
