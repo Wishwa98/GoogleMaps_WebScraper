@@ -7,7 +7,10 @@ This Python script leverages the power of Selenium, a web automation library, al
 
 Features:
 Keyword-based Search: The script reads a list of keywords and performs searches on Google Maps to gather relevant data.
+
+
 ![image](https://github.com/Wishwa98/Google_WebScraper/assets/86372219/a07e9d82-3f41-4ab9-abfc-ac352ec61be8)
+
 
 Structured Data Retrieval: Utilizing the Bose framework, the script ensures a systematic and organized approach to interacting with the web elements, making it easier to extract desired information.
 
